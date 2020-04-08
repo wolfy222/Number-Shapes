@@ -13,6 +13,6 @@ Square number or perfect square is an integer that is the square of an integer; 
 
 An Example of both is 36. So if it is both Square and Triangular No. It even tells that!!
 
-To get the direct link of the apk, click the link down below-
+#### To get the direct link of the apk, click the link down below-
 
 https://github.com/wolfy222/Number-Shapes/blob/master/app/release/Number%20Shapes.apk
